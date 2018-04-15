@@ -1,0 +1,9 @@
+[package]
+name = "jsdoctest"
+version = "0.1.0"
+authors = ["Brian Anderson <andersrb@gmail.com>"]
+readme = "README.md"
+description = "testing javascript injection"
+license = "MIT"
+
+[dependencies]
