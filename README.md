@@ -43,6 +43,9 @@ an inline script:
 document.write("<strong>if you are seeing this it was injected via javascript</strong>");
 </script>
 
+inline html with script onclick:
+<a href="#" onclick="javascript:alert(1)">click me</a>
+
 ## funky images
 
 js image:
