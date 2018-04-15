@@ -67,8 +67,10 @@ non-local html served as image:
 
 non-local html served as gif (I actually can't trick GitHub inter serving this as non-html ContentType)
 
-![non-local html served sa gif](https://gist.githubusercontent.com/brson/45a122f6414877b346932906f70f2901/raw/463f5cc968e8aee67146bc715febc2a93f029a43/foo.gif)
+![non-local html served as gif](https://gist.githubusercontent.com/brson/45a122f6414877b346932906f70f2901/raw/463f5cc968e8aee67146bc715febc2a93f029a43/foo.gif)
 
 non-local html served as gif (I actually can't trick GitHub inter serving this as non-html ContentType)
 
-![non-local html served sa jpg](https://raw.githubusercontent.com/brson/jsdoctest/master/not-a-real-image.jpg)
+![non-local html served as jpg](https://raw.githubusercontent.com/brson/jsdoctest/master/not-a-real-image.jpg)
+
+(I can't actually find a service that will serve a .jpg-named html as mimetype text/html - and the browser mime sniffer would probably figure it out anyway)

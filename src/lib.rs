@@ -1,4 +1,5 @@
 /*!
+
 A variety of tests for malicious code injection.
 
 Everything here is safe to click (brson). Anyl local paths work on Win 10.
@@ -74,6 +75,7 @@ non-local html served as gif (I actually can't trick GitHub inter serving this a
 
 ![non-local html served sa jpg](https://raw.githubusercontent.com/brson/jsdoctest/master/not-a-real-image.jpg)
 
+(I can't actually find a service that will serve a .jpg-named html as mimetype text/html - and the browser mime sniffer would probably figure it out anyway)
 
 !*/
 
