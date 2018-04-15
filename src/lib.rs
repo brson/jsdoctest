@@ -1,4 +1,6 @@
 /*!
+A variety of tests for malicious code injection.
+
 Everything here is safe to click (brson). Anyl local paths work on Win 10.
 
 ## javascript links
@@ -39,7 +41,7 @@ click me
 an inline script:
 
 <script type="text/javascript">
-document.write("<strong>if you are seeing this it was injected via javascript"</strong>");
+document.write("<strong>if you are seeing this it was injected via javascript</strong>");
 </script>
 
 ## funky images
@@ -64,9 +66,13 @@ non-local html served as image:
 
 ![non-local html as image](https://gist.githubusercontent.com/brson/45a122f6414877b346932906f70f2901/raw/463f5cc968e8aee67146bc715febc2a93f029a43/foo.hml)
 
-non-local html served as gif
+non-local html served as gif (I actually can't trick GitHub inter serving this as non-html ContentType)
 
 ![non-local html served sa gif](https://gist.githubusercontent.com/brson/45a122f6414877b346932906f70f2901/raw/463f5cc968e8aee67146bc715febc2a93f029a43/foo.gif)
+
+non-local html served as gif (I actually can't trick GitHub inter serving this as non-html ContentType)
+
+![non-local html served sa jpg](https://raw.githubusercontent.com/brson/jsdoctest/master/not-a-real-image.jpg)
 
 
 !*/

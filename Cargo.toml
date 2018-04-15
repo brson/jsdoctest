@@ -1,6 +1,6 @@
 [package]
 name = "jsdoctest"
-version = "0.2.0"
+version = "0.3.0"
 authors = ["Brian Anderson <andersrb@gmail.com>"]
 readme = "README.md"
 description = "testing javascript injection"
