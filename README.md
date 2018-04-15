@@ -1,7 +1,13 @@
-[check this out](javascript:alert\(1\))
+[check this out js](javascript:alert\(1\))
 
-[and this]
+[and this js]
 
-[and this]: javascript:alert\(1\)
+[and this js]: javascript:alert\(1\)
 
-![and this image](javascript:alert\(1\))
+![and this image js](javascript:alert\(1\))
+
+[check this out file](file:///install.exe)
+
+[and this file]
+
+[and this file]: file:///installe.exe
